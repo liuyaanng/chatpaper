@@ -12,9 +12,7 @@ export default function Home() {
         </div>
         <div className="p-6 border-gray-50 border-4 rounded-lg w-full">
           <div className="chat chat-start">
-            <div className="chat-bubble">
-              It's over Anakin, <br />I have the high ground.
-            </div>
+            <div className="chat-bubble">It s over Anakin </div>
           </div>
           <div className="chat chat-end">
             <div className="chat-bubble">
